@@ -1,5 +1,5 @@
 # Alisu-Custom-Keyboard
-This is my custom keyboard sandwich case, comes from the combination Arisu and Alice Case.
+This is my custom keyboard sandwich case, comes from the combination Arisu and Alice keyboard.
 
 I've create PCB start from Arisu PCB Project, if interested contact me.
 
